@@ -1,0 +1,5 @@
+namn = input("Hej spelare, välj ett spelnamn. ")
+print(f"hej {namn}")
+print("Du ska nu bestämma din morgon")
+print("Ditt Alarm ringer klockan 07:00 vad gör du")
+val1 = input("svara jag snoozar om du snoozar annar svar (stig upp). ")
