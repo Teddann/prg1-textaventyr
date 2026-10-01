@@ -6,29 +6,29 @@
 
 ## To Do
 
-#### .lower()
-<!-- id: task-1789370324820-21 -->
-all jämförelse av inmatning sänks till gemener först
-
-#### Inga kraschar
-<!-- id: task-1789370399886-49 -->
-vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
+## In Progress
 
 #### f-strängar
 <!-- id: task-1789370290018-5 -->
 spelarens namn används i minst tre print()-satser
 
-## In Progress
+## Done
 
 #### Flera slut
 <!-- id: task-1789370357795-38 -->
 minst två, och de ska vara olika. Slutar alla vägar likadant har spelarens val inte spelat någon roll
 
-## Done
+#### Inga kraschar
+<!-- id: task-1789370399886-49 -->
+vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
 
 #### Skriv berättelsen
 <!-- id: task-1789371029039-86 -->
 <!-- priority: critical -->
+
+#### .lower()
+<!-- id: task-1789370324820-21 -->
+all jämförelse av inmatning sänks till gemener först
 
 #### kom på ett spel
 <!-- id: task-1790064964871-40 -->
